@@ -1,0 +1,19 @@
+{
+  "name": "parallax-animation-effect",
+  "version": "1.0.0",
+  "description": "3D dynamic parallax animation effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-S-Mahajan/parallax-animation-effect.git"
+  },
+  "author": "Abhishek Mahajan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhishek-S-Mahajan/parallax-animation-effect/issues"
+  },
+  "homepage": "https://github.com/Abhishek-S-Mahajan/parallax-animation-effect#readme"
+}
